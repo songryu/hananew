@@ -2,7 +2,7 @@
 
 time=$(date "+%Y-%m-%d %H:%M:%S")
 echo $time
-echo $time >> /home/ubuntu/homework/zz.txt
+echo $time >> /home/ubuntu/homework/hananew/zz.txt
 
 cd /home/ubuntu/homework/hananew
 
